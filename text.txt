@@ -1,7 +1,2 @@
-init
 
-edit1
-
-add develop
-
-
+fix
